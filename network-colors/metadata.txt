@@ -1,0 +1,10 @@
+[general]
+name=Network Colors
+qgisMinimumVersion=3.34.10
+description=Experimental QGIS plugin for network configuration.
+about=The purpose of network colors is to prepare your road network for printing, selecting appropriate colors for the visually impaired and setting line thicknesses according to the scale adopted.
+version=0.0.1
+email=renataakemii@gmail.com
+author=Renata Akemi Imai
+experimental=True
+repository=https://github.com/r-akemii/network-colors
